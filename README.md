@@ -1,4 +1,4 @@
-![Python-Logo](https://github.com/Ammad-Younas/Password-Generator/blob/main/pass-gen.png)
+![Python-Logo](https://github.com/Ammad-Younas/Cursor_Coordinates_Captcher/blob/main/Cursor-Coordinates-Captcher.png)
 
 # Cursor_Coordinates_Captcher
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    
